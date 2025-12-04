@@ -1,8 +1,8 @@
-.img-fluid {
-  max-width: 250px;
-  width: 100%;
+.img-stretched {
+  width: 35%;
+  height: auto;
   display: block;
-  margin: 20px 0;
+}
 }
 
 body{
